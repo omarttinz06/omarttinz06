@@ -1,10 +1,8 @@
-<h1 align="center">👨‍💻 Vitor Costa</h1>
+<<h1>👨‍💻 Vitor Costa</h1>
 
-<h3 align="center">
+<h3>
   Estudante de Tecnologia | Programação & Dados
 </h3>
-
-Estudante de Tecnologia | Programação & Dados
 
 Olá! Sou Vitor Costa, tenho experiência nas áreas de Recursos Humanos e Administração e estou construindo minha trajetória no mundo da tecnologia.
 
