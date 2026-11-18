@@ -1,4 +1,8 @@
-#👨‍💻 Vitor Costa
+<h1 align="center">👨‍💻 Vitor Costa</h1>
+
+<h3 align="center">
+  Estudante de Tecnologia | Programação & Dados
+</h3>
 
 Estudante de Tecnologia | Programação & Dados
 
